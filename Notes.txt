@@ -1,0 +1,9 @@
+asgi.py and wsgi.py are the entry points for the web server
+need to know if you want to deploy project into a live webserver
+
+settings.py is a global configuration for the whole project
+this file has secret keys, templates, information about the database
+how the password are structured
+
+urls.py this can be thought of as a table of contents for the whole projects
+this will link the url to a specific view
