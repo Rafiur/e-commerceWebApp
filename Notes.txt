@@ -7,3 +7,25 @@ how the password are structured
 
 urls.py this can be thought of as a table of contents for the whole projects
 this will link the url to a specific view
+
+in a newly created folder/app
+
+the admin.py file is where we register the database models
+to be used inside the django admin interface
+
+apps.py is like a configuration file just for that specific app
+
+models.py is where we define the models like information about
+what we want to store for an item
+for example the title description price and similar infos
+
+test.py is where we can run automated tests and similar for this app
+
+views.py is where we define views for the app
+
+after creating any app we need to make django aware of its existance by-
+
+in settings.py file of the project folder we will find a installed apps section and
+we need to add the newly created app's name there
+
+!till 8:52
