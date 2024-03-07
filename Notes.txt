@@ -28,4 +28,4 @@ after creating any app we need to make django aware of its existance by-
 in settings.py file of the project folder we will find a installed apps section and
 we need to add the newly created app's name there
 
-!till 8:52
+Pillow is a pyhton image handling library
