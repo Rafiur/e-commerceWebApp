@@ -33,7 +33,7 @@ Pillow is a pyhton image handling library like resizing, handling etc.
 when we added items and created a urls file for items to navigate the items url/directory we add it to the main project urls.py file
 when we have successfully added the items url to the main project urls path whenever the item directory is pursued it'll go to that directory through
 the main project urls file to the items urls file to the destination page/view
-!till 55:56
+!till 1:53:31
 
 
 **************************************
